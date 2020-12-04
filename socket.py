@@ -2,7 +2,7 @@ import socket
 
 class Socket:
     localIP = "192.168.0.1"
-    localPort = 1234
+    localPort = 12345
     flag  = False
 
     @staticmethod
